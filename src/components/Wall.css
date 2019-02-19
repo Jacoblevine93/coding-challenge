@@ -12,11 +12,7 @@
   cursor: default;
   text-align: middle;
   padding-left: 0px;
-  color: #9ea0a2;
-}
-
-#comments:hover, #comments:active {
-  color: #4a4a4a;
+  color: #000000;
 }
 
 .btn, .btn-info, .btn-lg {

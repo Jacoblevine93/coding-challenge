@@ -64,7 +64,7 @@ import './Wall.css';
           </div>
           <ul className="comment-list">
             {this.state.comments.map((comment) =>
-            <div  id="comments" onClick={() => this.props.setActiveComment(comment)} key={comment.key}>{comment.name}
+            <div  id="comments" onClick={() => this.props.setActiveComment(comment)} key={comment.key}>{comment.text}
             </div>
             )}
           </ul>

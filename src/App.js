@@ -6,7 +6,7 @@ import Wall from './components/Wall.js';
 
 
 var config = {
-  apiKey: "AIzaSyAsAloEkOWRRI644pZs1af4DgagqGKx5zg",
+  apiKey: "AIzaSyBkYnqlLdzchq6vk1qmd2gLah5pjpzQThk",
   authDomain: "coding-challenge-9777d.firebaseio.com",
   databaseURL: "https://coding-challenge-9777d.firebaseio.com",
   projectId: "coding-challenge-9777d",
