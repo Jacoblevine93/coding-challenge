@@ -1,0 +1,14 @@
+#user-section {
+  padding-top: 60px;
+}
+
+button {
+  background:    #f6f7fb;
+  border-radius: 3px;
+  padding:       8px 16px;
+  color:         #9ea0a2;
+  display:       inline-block;
+  font:          normal 700 15px/1 "Calibri", sans-serif;
+  text-align:    center;
+  text-shadow:   none;
+}

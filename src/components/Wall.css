@@ -1,0 +1,53 @@
+#comment-list-section {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+#comment-list {
+  text-align: center;
+  padding-top: 0px;
+}
+
+#comments {
+  cursor: default;
+  text-align: middle;
+  padding-left: 0px;
+  color: #9ea0a2;
+}
+
+#comments:hover, #comments:active {
+  color: #4a4a4a;
+}
+
+.btn, .btn-info, .btn-lg {
+  background-color: #f6f7fb;
+}
+
+.align-middle {
+  align-content: center!important;
+  padding: 20px 20px 20px 30px;
+
+}
+
+h1 {
+  display: inline-block;
+  padding:  10px 20px 0px 10px;
+  vertical-align: middle;
+  color: #4a4a4a;
+}
+
+#modal-button {
+  background:    #f6f7fb;
+  border-radius: 3px;
+  padding:       10px 16px 10px;
+  vertical-align: middle;
+  color:         #9ea0a2;
+  display:       inline-block;
+  font:          normal 700 15px/1 "Calibri", sans-serif;
+  text-align:    center;
+  text-shadow:   none;
+}
+
+#modal-title {
+  text-align: center;
+}
