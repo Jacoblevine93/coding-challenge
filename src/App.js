@@ -7,7 +7,7 @@ import Wall from './components/Wall.js';
 
 var config = {
   apiKey: "AIzaSyBkYnqlLdzchq6vk1qmd2gLah5pjpzQThk",
-  authDomain: "coding-challenge-9777d.firebaseio.com",
+  authDomain: "coding-challenge-9777d.firebaseapp.com",
   databaseURL: "https://coding-challenge-9777d.firebaseio.com",
   projectId: "coding-challenge-9777d",
   storageBucket: "coding-challenge-9777d.appspot.com",
@@ -19,7 +19,7 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      activeComment: 'carrots',
+      activeComment: 'hi',
       username: 'Guest'
     };
   }
