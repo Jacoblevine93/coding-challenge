@@ -12,4 +12,3 @@ Instructions:
 
 1. Git Clone
 2. NPM Install
-3. Donzo!
